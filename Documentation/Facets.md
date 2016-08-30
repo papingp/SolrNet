@@ -3,7 +3,7 @@
 This is a change I want to commit
 SolrNet supports [faceted searching](http://wiki.apache.org/solr/SolrFacetingOverview).
 
-This is a change I do not want to commit
+
 There are basically three kinds of facet queries:
 
  1. querying by field
