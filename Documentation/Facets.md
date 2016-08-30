@@ -1,6 +1,6 @@
 # Faceting
 
-This is a change I want to commit
+
 SolrNet supports [faceted searching](http://wiki.apache.org/solr/SolrFacetingOverview).
 
 
