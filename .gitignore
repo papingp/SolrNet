@@ -31,3 +31,4 @@ packages/*
 .nuget/*.exe
 *.sln.ide
 .vs/*
+Documentation/Facets.md.rej
